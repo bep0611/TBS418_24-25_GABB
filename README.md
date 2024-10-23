@@ -1,2 +1,2 @@
-# TBS418_24-25_GABB
-Baskent 
+# TBS418_2425_GABB
+Baskent University Course
